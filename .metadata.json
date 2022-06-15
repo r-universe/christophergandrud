@@ -1,0 +1,50 @@
+[
+  {
+    "package": "coreSim",
+    "oncran": true
+  },
+  {
+    "package": "d3Network",
+    "oncran": true
+  },
+  {
+    "package": "DataCombine",
+    "oncran": true
+  },
+  {
+    "package": "dpmr",
+    "oncran": true
+  },
+  {
+    "package": "dynsim",
+    "oncran": true
+  },
+  {
+    "package": "imfr",
+    "oncran": true
+  },
+  {
+    "package": "networkD3",
+    "oncran": true
+  },
+  {
+    "package": "plotMElm",
+    "oncran": true
+  },
+  {
+    "package": "pltesim",
+    "oncran": true
+  },
+  {
+    "package": "repmis",
+    "oncran": true
+  },
+  {
+    "package": "simPH",
+    "oncran": true
+  },
+  {
+    "package": "simpleSetup",
+    "oncran": true
+  }
+]
