@@ -28,11 +28,6 @@
 	url = https://github.com/christophergandrud/dynsim
 	shallow = true
 	registered = true
-[submodule "imfr"]
-	path = imfr
-	url = https://github.com/christophergandrud/imfr
-	shallow = true
-	registered = true
 [submodule "networkD3"]
 	path = networkD3
 	url = https://github.com/christophergandrud/networkd3

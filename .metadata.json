@@ -20,10 +20,6 @@
     "oncran": true
   },
   {
-    "package": "imfr",
-    "oncran": true
-  },
-  {
     "package": "networkD3",
     "oncran": true
   },
