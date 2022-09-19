@@ -18,6 +18,16 @@
 	url = https://github.com/christophergandrud/datacombine
 	shallow = true
 	registered = true
+[submodule "dpmr"]
+	path = dpmr
+	url = https://github.com/christophergandrud/dpmr
+	shallow = true
+	registered = true
+[submodule "dynsim"]
+	path = dynsim
+	url = https://github.com/christophergandrud/dynsim
+	shallow = true
+	registered = true
 [submodule "networkD3"]
 	path = networkD3
 	url = https://github.com/christophergandrud/networkd3
