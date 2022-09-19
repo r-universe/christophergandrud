@@ -12,14 +12,6 @@
     "oncran": true
   },
   {
-    "package": "dpmr",
-    "oncran": true
-  },
-  {
-    "package": "dynsim",
-    "oncran": true
-  },
-  {
     "package": "networkD3",
     "oncran": true
   },
