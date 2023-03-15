@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "mcreplicate",
+    "oncran": true
+  },
+  {
     "package": "networkD3",
     "oncran": true
   },

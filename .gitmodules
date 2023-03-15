@@ -28,6 +28,11 @@
 	url = https://github.com/christophergandrud/dynsim
 	shallow = true
 	registered = true
+[submodule "mcreplicate"]
+	path = mcreplicate
+	url = https://github.com/christophergandrud/mcreplicate
+	shallow = true
+	registered = true
 [submodule "networkD3"]
 	path = networkD3
 	url = https://github.com/christophergandrud/networkd3
