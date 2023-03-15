@@ -1,6 +1,6 @@
 [
   {
-    "package": "DataCombine",
+    "package": "coreSim",
     "oncran": true
   },
   {
@@ -8,23 +8,7 @@
     "oncran": true
   },
   {
-    "package": "simpleSetup",
-    "oncran": true
-  },
-  {
-    "package": "plotMElm",
-    "oncran": true
-  },
-  {
-    "package": "coreSim",
-    "oncran": true
-  },
-  {
-    "package": "pltesim",
-    "oncran": true
-  },
-  {
-    "package": "networkD3",
+    "package": "DataCombine",
     "oncran": true
   },
   {
@@ -32,7 +16,19 @@
     "oncran": true
   },
   {
-    "package": "simPH",
+    "package": "dynsim",
+    "oncran": true
+  },
+  {
+    "package": "networkD3",
+    "oncran": true
+  },
+  {
+    "package": "plotMElm",
+    "oncran": true
+  },
+  {
+    "package": "pltesim",
     "oncran": true
   },
   {
@@ -40,7 +36,11 @@
     "oncran": true
   },
   {
-    "package": "dynsim",
+    "package": "simPH",
+    "oncran": true
+  },
+  {
+    "package": "simpleSetup",
     "oncran": true
   }
 ]
