@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "coreSim"]
-	path = coreSim
-	url = https://github.com/christophergandrud/coresim
+[submodule "DataCombine"]
+	path = DataCombine
+	url = https://github.com/christophergandrud/datacombine
 	shallow = true
 	registered = true
 [submodule "d3Network"]
@@ -13,24 +13,9 @@
 	url = https://github.com/christophergandrud/d3network
 	shallow = true
 	registered = true
-[submodule "DataCombine"]
-	path = DataCombine
-	url = https://github.com/christophergandrud/datacombine
-	shallow = true
-	registered = true
-[submodule "dpmr"]
-	path = dpmr
-	url = https://github.com/christophergandrud/dpmr
-	shallow = true
-	registered = true
-[submodule "dynsim"]
-	path = dynsim
-	url = https://github.com/christophergandrud/dynsim
-	shallow = true
-	registered = true
-[submodule "networkD3"]
-	path = networkD3
-	url = https://github.com/christophergandrud/networkd3
+[submodule "simpleSetup"]
+	path = simpleSetup
+	url = https://github.com/christophergandrud/simplesetup
 	shallow = true
 	registered = true
 [submodule "plotMElm"]
@@ -38,14 +23,24 @@
 	url = https://github.com/christophergandrud/plotmelm
 	shallow = true
 	registered = true
+[submodule "coreSim"]
+	path = coreSim
+	url = https://github.com/christophergandrud/coresim
+	shallow = true
+	registered = true
 [submodule "pltesim"]
 	path = pltesim
 	url = https://github.com/christophergandrud/pltesim
 	shallow = true
 	registered = true
-[submodule "repmis"]
-	path = repmis
-	url = https://github.com/christophergandrud/repmis
+[submodule "networkD3"]
+	path = networkD3
+	url = https://github.com/christophergandrud/networkd3
+	shallow = true
+	registered = true
+[submodule "dpmr"]
+	path = dpmr
+	url = https://github.com/christophergandrud/dpmr
 	shallow = true
 	registered = true
 [submodule "simPH"]
@@ -53,8 +48,13 @@
 	url = https://github.com/christophergandrud/simph
 	shallow = true
 	registered = true
-[submodule "simpleSetup"]
-	path = simpleSetup
-	url = https://github.com/christophergandrud/simplesetup
+[submodule "repmis"]
+	path = repmis
+	url = https://github.com/christophergandrud/repmis
+	shallow = true
+	registered = true
+[submodule "dynsim"]
+	path = dynsim
+	url = https://github.com/christophergandrud/dynsim
 	shallow = true
 	registered = true

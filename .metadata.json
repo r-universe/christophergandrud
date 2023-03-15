@@ -1,6 +1,6 @@
 [
   {
-    "package": "coreSim",
+    "package": "DataCombine",
     "oncran": true
   },
   {
@@ -8,19 +8,7 @@
     "oncran": true
   },
   {
-    "package": "DataCombine",
-    "oncran": true
-  },
-  {
-    "package": "dpmr",
-    "oncran": true
-  },
-  {
-    "package": "dynsim",
-    "oncran": true
-  },
-  {
-    "package": "networkD3",
+    "package": "simpleSetup",
     "oncran": true
   },
   {
@@ -28,11 +16,19 @@
     "oncran": true
   },
   {
+    "package": "coreSim",
+    "oncran": true
+  },
+  {
     "package": "pltesim",
     "oncran": true
   },
   {
-    "package": "repmis",
+    "package": "networkD3",
+    "oncran": true
+  },
+  {
+    "package": "dpmr",
     "oncran": true
   },
   {
@@ -40,7 +36,11 @@
     "oncran": true
   },
   {
-    "package": "simpleSetup",
+    "package": "repmis",
+    "oncran": true
+  },
+  {
+    "package": "dynsim",
     "oncran": true
   }
 ]
