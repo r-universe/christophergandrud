@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DataCombine"]
+	path = DataCombine
+	url = https://github.com/christophergandrud/datacombine
 [submodule "coreSim"]
 	path = coreSim
 	url = https://github.com/christophergandrud/coresim
 [submodule "d3Network"]
 	path = d3Network
 	url = https://github.com/christophergandrud/d3network
-[submodule "DataCombine"]
-	path = DataCombine
-	url = https://github.com/christophergandrud/datacombine
 [submodule "dpmr"]
 	path = dpmr
 	url = https://github.com/christophergandrud/dpmr
