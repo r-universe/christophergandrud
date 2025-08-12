@@ -8,9 +8,6 @@
 [submodule "d3Network"]
 	path = d3Network
 	url = https://github.com/christophergandrud/d3network
-[submodule "dpmr"]
-	path = dpmr
-	url = https://github.com/christophergandrud/dpmr
 [submodule "dynsim"]
 	path = dynsim
 	url = https://github.com/christophergandrud/dynsim
@@ -23,9 +20,6 @@
 [submodule "plotMElm"]
 	path = plotMElm
 	url = https://github.com/christophergandrud/plotmelm
-[submodule "pltesim"]
-	path = pltesim
-	url = https://github.com/christophergandrud/pltesim
 [submodule "repmis"]
 	path = repmis
 	url = https://github.com/christophergandrud/repmis
